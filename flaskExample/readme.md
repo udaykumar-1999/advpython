@@ -1,5 +1,5 @@
 # FLASK
 
-routes
-templates
+routes,
+templates,
 CRUD operations (REST API)
